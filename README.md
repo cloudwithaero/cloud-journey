@@ -24,7 +24,7 @@ My cloud engineering learning journey and hands-on projects.
 ## 📂 Projects
 | Project | Description | Status |
 |---|---|---|
-| Coming Soon | First cloud deployment | 🔄 In Progress |
+| First Project | Hosting a static website on an AWS S3 bucket | DONE ✅ |
 
 ---
 
@@ -37,4 +37,4 @@ My cloud engineering learning journey and hands-on projects.
 
 ## 📈 Progress Log
 - ✅ Created GitHub cloud journey repo
-- ⏳ Preparing first deployment project
+- ⏳ Working on hosting a static website using AWS S3
